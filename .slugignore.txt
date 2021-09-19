@@ -1,0 +1,4 @@
+# .slugignore
+/test
+/spec
+/docs
